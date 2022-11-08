@@ -21,7 +21,9 @@ Power BI: Se utilizó Power BI para la presentación de los datos en un Dashboar
 
 ## Librerías de interés.
 
-GEOPY: Permite obtener las coordenadas geográficas de los sitios donde ocurrieron los accidentes. https://geopy.readthedocs.io/en/stable/
+Geopy: Permite obtener las coordenadas geográficas de los sitios donde ocurrieron los accidentes. 
+
+https://geopy.readthedocs.io/en/stable/
 
 Flydenity: Permite conocer el país de origen de las diferentes aeronaves involucradas en los accidentes aereos. 
 
