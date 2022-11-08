@@ -5,7 +5,7 @@ El proyecto individual 03 se basa en la elaboración de un dashboard donde se pr
 
 ## Notebook
 
-En el notebook "NOMBRE" posee la información referente al tratamiento de los datos, su procesamiento y la visualización de las variables respectivas. También se presentan algunos gráficos preliminares que permiten visualizar la distribución de los datos y permiten extraer información valiosa para su análisis posterior.
+En el notebook pi03_analytics.ipynb posee la información referente al tratamiento de los datos, su procesamiento y la visualización de las variables respectivas. También se presentan algunos gráficos preliminares que permiten visualizar la distribución de los datos y permiten extraer información valiosa para su análisis posterior.
 
 ## Base de Datos
 
