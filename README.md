@@ -28,3 +28,57 @@ https://geopy.readthedocs.io/en/stable/
 Flydenity: Permite conocer el país de origen de las diferentes aeronaves involucradas en los accidentes aereos. 
 
 https://github.com/Collen-Roller/flydenity
+
+## Glosario de términos.
+
+id: número identificador.
+
+date: fecha de accidente.
+
+time: hora del accidente.
+
+location: lugar del accidente.
+
+operator: nombre del operador.
+
+route: ruta de vuelo.
+
+type: modelo de avión.
+
+registration: codigo de registro del vuelo.
+
+aboard: número de personas abordo del avión.
+
+passengers: número de pasajeros en el avión.
+
+crew: número de miembros de la tripulación del avión.
+
+fatalities: cantidad de fallecidos a bordo.
+
+passenger_fatalities: cantidad de pasajeros fallecidos.
+
+crew_fatalities: cantidad de tripulantes fallecidos.
+
+ground: cantidad de fallecidos a causa del accidente.
+
+summary: resumen del accidente.
+
+year: año en que ocurrió el accidente.
+
+month: mes (numérico) en que ocurrió el accidente.
+
+day: día (númerico) en qué ocurrió el accidente.
+
+military: indica si el avión es de uso militar o de uso civil.
+
+crash_site: lugar donde ocurrió el accidente (sólo el país).
+
+survived: número de sobrevivientes al accidente.
+
+survival_rate: porcentaje de sobrevivientes al accidente.
+
+day_of_the_week: nombre del día de la semana en que ocurrió el accidente.
+
+month_year: nombre del mes en el que ocurrió el accidente.
+
+
