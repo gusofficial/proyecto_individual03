@@ -1,4 +1,4 @@
-# Proyecto Indivial 03
+# Proyecto Individual 03
 ## Data Analytics
 
 El proyecto individual 03 se basa en la elaboración de un dashboard donde se presentan datos referentes a accidentes aéreos desde el año 1908 hasta el año 2021 alrededor del mundo. El objetivo del proyecto es evaluar diferentes habilidades tanto de análisis de datos (EDA), visualización y hablidades blandas (softskills) como presentación y comunicación de los datos, storytelling, etc. También, se elaboró una base de datos en un motor SQL con los datos procesados.
